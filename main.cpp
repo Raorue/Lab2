@@ -7,9 +7,7 @@ int N,M;
 vector<int> vec;
 
 void func(int cnt) {
-
-
-
+	cout << "modified?" << endl;
 
 
 
