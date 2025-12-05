@@ -2,14 +2,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-/*
- Improved Yut Nori with ANSI UI
- - START = -1, FIN = 29
- - nodes 0..28 (main 0..20, shortcuts 21..28)
- - ANSI color support for players
- - Clean input prompts (cout flushed)
-*/
-
 static const int START = -1;
 static const int FIN = 29;
 
